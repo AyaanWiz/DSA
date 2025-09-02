@@ -19,7 +19,9 @@ int main(){
 
         cout<<endl;
         i = i + 1;
-        
-    }
 
+
+
+    }
+      cout<<"Done";
 }
